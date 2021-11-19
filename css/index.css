@@ -1,0 +1,22 @@
+* {
+    background-color: #FBF7F4;
+    font-family: Garamond, 'Trebuchet MS', sans-serif;
+}
+
+
+.title {
+    color: #A1683A;
+    font-size: 45px;
+    text-align: center;
+}
+
+.subheading {
+    color: #E8998D;
+    font-size: 35px;
+    
+}
+
+.link {
+    color: #E8998D;
+    font-size: 20px;
+}
