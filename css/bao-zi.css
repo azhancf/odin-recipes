@@ -1,0 +1,38 @@
+* {
+    background-color: #FBF7F4;
+    font-family: Garamond, 'Trebuchet MS', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.section {
+    font-size: 35px;
+    color: #6C9A8B;
+}
+
+.parts {
+    font-size: 25px;
+    color: #E8998D;
+}
+
+.link, .credits {
+    color: #EED2CC;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.credits {
+    text-align:right;
+}
